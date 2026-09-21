@@ -1,0 +1,66 @@
+{
+    "file": "wire\/core\/Tfa.php",
+    "textdomain": "wire--core--tfa-php",
+    "translations": {
+        "80a295c9fe7bed66295f4d8c1b52e110": {
+            "text": "Autentiza\u010dn\u00ed k\u00f3d"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Zru\u0161it"
+        },
+        "cbb29c6546b8bc6d75f7601de9fbf02b": {
+            "text": "P\u0159i vytv\u00e1\u0159en\u00ed nebo odes\u00edl\u00e1n\u00ed ov\u011b\u0159ovac\u00edho k\u00f3du do\u0161lo k chyb\u011b"
+        },
+        "659bdd9c46c5d70535873ddb56cafd06": {
+            "text": "Bylo dosa\u017eeno maxim\u00e1ln\u00edho po\u010dtu pokus\u016f"
+        },
+        "fcb94183c23245426ccf40bd6d531c69": {
+            "text": "\u010casov\u00fd limit byl dosa\u017een"
+        },
+        "8ced11807059756862f53c217354b63a": {
+            "text": "Platnost k\u00f3du vypr\u0161ela"
+        },
+        "e4282a24d0473bcf155064341f71e92b": {
+            "text": "Neplatn\u00fd k\u00f3d"
+        },
+        "c8cf6eea8f096ed51160b484d97c5bbd": {
+            "text": "+"
+        },
+        "3b4101362473ebcc69709f89fb96660b": {
+            "text": "Povoleno dvoufaktorov\u00e9 ov\u011b\u0159ov\u00e1n\u00ed!"
+        },
+        "6e7655b2bfff79f61f88c1d0b503ff48": {
+            "text": "Chcete-li deaktivovat nebo zm\u011bnit nastaven\u00ed, vyberte mo\u017enost \u201e\u017d\u00e1dn\u00e1\u201c v\u00fd\u0161e a ulo\u017ete."
+        },
+        "f9be528468706e84485c5baa7f553fb9": {
+            "text": "Pros\u00edm nakonfigurujte"
+        },
+        "e9b342b9b4fa34f406761f626823a71b": {
+            "text": "typ dvoufaktorov\u00e9 autentizace"
+        },
+        "90d6f81578cb44ed4be183c66d52c7f9": {
+            "text": "Po proveden\u00ed nebo zm\u011bn\u011b v\u00fdb\u011bru ode\u0161lete formul\u00e1\u0159. N\u00e1sledn\u011b se sem vra\u0165te a nakonfigurujte jej."
+        },
+        "e8b4a77d06cf81dc696a4a31e6a46ae2": {
+            "text": "Vymazat zapamatovan\u00e9 prohl\u00ed\u017ee\u010de, kter\u00e9 p\u0159esko\u010d\u00ed zad\u00e1v\u00e1n\u00ed ov\u011b\u0159ovac\u00edho k\u00f3du"
+        },
+        "f8b67530ae39d240111ec69291985123": {
+            "text": "Vymazan\u00e9 zapamatovan\u00e9 prohl\u00ed\u017ee\u010de"
+        },
+        "02737b9a82aa8e3b6e9090dcdbcd2431": {
+            "text": "Zapamatovat si tento po\u010d\u00edta\u010d?"
+        },
+        "4e74313cb658d8e75c33cc16caa0b078": {
+            "text": "Tento po\u010d\u00edta\u010d \/ prohl\u00ed\u017ee\u010d je nyn\u00ed zapamatov\u00e1n a\u017e na %d dn\u00ed."
+        },
+        "5e54e7c01119f2724ce0acbd4c8f6ed3": {
+            "text": "Zm\u011bny prohl\u00ed\u017ee\u010de, nebo um\u00edst\u011bn\u00ed, mohou vy\u017eadovat nov\u00fd k\u00f3d."
+        },
+        "287f75369eba76b6634a6cdf2f1cb915": {
+            "text": "K\u00f3d nebyl po\u017eadov\u00e1n, proto\u017ee prohl\u00ed\u017ee\u010d byl rozpozn\u00e1n z p\u0159edchoz\u00edho p\u0159ihl\u00e1\u0161en\u00ed."
+        },
+        "2f8ed7fafd3c1784a3be4da8eb3d106a": {
+            "text": "="
+        }
+    }
+}

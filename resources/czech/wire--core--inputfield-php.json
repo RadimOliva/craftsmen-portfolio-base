@@ -1,0 +1,87 @@
+{
+    "file": "wire\/core\/Inputfield.php",
+    "textdomain": "wire--core--inputfield-php",
+    "translations": {
+        "1729a56cfc89021478498fe0c89a843a": {
+            "text": "Viditelnost"
+        },
+        "49632d1c8309d42371ab31fe84d56c91": {
+            "text": "Jak m\u00e1 b\u00fdt toto pole zobrazeno v editoru?"
+        },
+        "6e18e908568ef24580d93bfd3e0f40d7": {
+            "text": "Povinn\u00e9?"
+        },
+        "c48c7243fc307fd425df738c9f0f4324": {
+            "text": "Pole bude vy\u017eadovat vypln\u011bnou hodnotu."
+        },
+        "0eb0b305235144ffe99e247b24200b09": {
+            "text": "\u0160\u00ed\u0159ka sloupce v procentech (10%-100%). Pokud bude pole um\u00edst\u011bno vedle jin\u00e9ho s redukovanou \u0161\u00ed\u0159kou, vytvo\u0159\u00ed plovouc\u00ed sloupce."
+        },
+        "8387772e28e9c2b81fa8cb674e569663": {
+            "text": "N\u00e9 v\u0161echny pole podporuj\u00ed redukci \u0161\u00ed\u0159ky. P\u0159i zm\u011bn\u011b by jste m\u011bli otestovat v\u00fdsledek."
+        },
+        "c7bc3fddddb62d5b656adc30cea77a55": {
+            "text": "Prezentace"
+        },
+        "3b57940d51a0ed7f2d5c49363114bd0e": {
+            "text": "Zadejte podm\u00ednky, za kter\u00fdch bude pole zobrazeno."
+        },
+        "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
+            "text": "Zadejte podm\u00ednky, za kter\u00fdch bude vy\u017eadov\u00e1na vypln\u011bn\u00e1 hodnota tohoto pole."
+        },
+        "2d7ff3fa8a1a844b270d96878d358762": {
+            "text": "[V\u00edce informac\u00ed](http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/) o tom, jak pou\u017e\u00edvat tuto funkci."
+        },
+        "efdf8051d64766330e13627274b01787": {
+            "text": "Podm\u00ednky jsou vyj\u00e1d\u0159eny pomoc\u00ed \"pole=hodnota\" (\"field=value\"). Selektor obsahuj\u00edc\u00ed n\u00e1zev pole a hodnota pro vyhodnocen\u00ed podm\u00ednky. V\u00edce podm\u00ednek se odd\u011bluje \u010d\u00e1rkou."
+        },
+        "c3bf447eabe632720a3aa1a7ce401274": {
+            "text": "Otev\u0159en\u00e9"
+        },
+        "0d2d71d5551271c673df720e61b08cf8": {
+            "text": "Otev\u0159en\u00e9 + nelze zav\u0159\u00edt"
+        },
+        "5995da1dbd9a2df5487ab0324f2d4a01": {
+            "text": "Otev\u0159en\u00e9 pokud je vypln\u011bno + Zav\u0159en\u00e9 pokud je pr\u00e1zdn\u00e9"
+        },
+        "e75c5e5c17a86f893fac8d2b7b7a3762": {
+            "text": "Otev\u0159en\u00e9 pokud je vypln\u011bno + Zav\u0159en\u00e9 pokud je pr\u00e1zdn\u00e9 + Nahraje se pouze pokud je otev\u0159eno (AJAX)"
+        },
+        "3a28674fd51f34234723d80de10c6382": {
+            "text": "Otev\u0159en\u00e9 pokud je vypln\u011bno + Zav\u0159en\u00e9 pokud je pr\u00e1zdn\u00e9 + Zam\u010deno (nelze editovat)"
+        },
+        "2f6f6a0f0c4157d8a5174b75063ba0e2": {
+            "text": "Otev\u0159en\u00e9 pokud je pr\u00e1zdn\u00e9 + Zav\u0159en\u00e9 pokud je vypln\u011bno"
+        },
+        "03f4a47830f97377a35321051685071e": {
+            "text": "Zav\u0159en\u00e9"
+        },
+        "3567554c6ab1f1648a4b4ecbbbb4733d": {
+            "text": "Zav\u0159en\u00e9 + Zam\u010den\u00e9 (nelze editovat)"
+        },
+        "9101591614e0d079e052d9cbf4e1c203": {
+            "text": "Zav\u0159en\u00e9 + Nahraje se pouze pokud je otev\u0159eno (AJAX)"
+        },
+        "cb6df4e080dea0319f74d565e587c2b5": {
+            "text": "Mo\u017enosti ozna\u010den\u00e9 %s nemus\u00ed fungovat se v\u0161emi typy pol\u00ed nebo um\u00edst\u011bn\u00edm. Toto chov\u00e1n\u00ed je nutn\u00e9 otestovat."
+        },
+        "2145d1256ac3cfac3444b42d04572b4e": {
+            "text": "Skryt\u00e9 (nezobraz\u00ed se v editoru)"
+        },
+        "44158720c6f7deaff17b2430d3d31254": {
+            "text": "Zobraz toto pole pouze pokud"
+        },
+        "c1d71aa80e02ee67489431d11e5f58a8": {
+            "text": "Povinn\u00e9 pouze pokud"
+        },
+        "b26d2db211d5748ab5ca3f2b5124e63a": {
+            "text": "\u0160\u00ed\u0159ka sloupce (%d%%)"
+        },
+        "4049392fac457a50d9eb641c5873f41e": {
+            "text": "Pou\u017e\u00edt tak\u00e9 atribut HTML5 \u201erequired\u201c?"
+        },
+        "e20047e93328484a90fd0cf82642d0ff": {
+            "text": "Pou\u017e\u00edt pouze na pole, kter\u00e1 jsou u\u017eivateli v\u017edy viditeln\u00e1."
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "craftsmen/portfolio-base",
+  "description": "Independent Czech tradesman websites on ProcessWire",
+  "require": {"php": "^8.4", "ext-pdo_mysql": "*", "ext-gd": "*", "ext-mbstring": "*", "ext-fileinfo": "*", "ext-curl": "*", "phpmailer/phpmailer": "^6.10"}
+}

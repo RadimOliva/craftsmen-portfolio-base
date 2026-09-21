@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/InputfieldDatetime.module",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--inputfielddatetime-module",
+    "translations": {
+        "d27357121209bd712604d8af46cd2460": {
+            "text": "Vstupn\u00ed pole kter\u00e9 p\u0159ij\u00edm\u00e1 datum a voliteln\u011b i \u010das"
+        },
+        "1feebee2f4ca4af215e8b47f37695f99": {
+            "text": "Pokud je za\u0161krtnuto a nen\u00ed zadan\u00e1 \u017e\u00e1dn\u00e1 hodnota, bude toto pole obsahovat aktu\u00e1ln\u00ed \u010das"
+        },
+        "a1af5f0718bfae275ce162362d0e43c5": {
+            "text": "Datum a \u010das (Datetime)"
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Typ vstupu"
+        },
+        "13f25c1325ea96579dff3ca9b5c408de": {
+            "text": "V\u00fdchoz\u00ed k dne\u0161n\u00edmu dni?"
+        }
+    }
+}

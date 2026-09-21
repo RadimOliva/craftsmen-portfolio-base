@@ -1,0 +1,57 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Pokud bude va\u0161e pole obsahovat v\u00edce str\u00e1nek, m\u011bli byste zvolit prvn\u00ed mo\u017enost (PageArray). Pokud bude va\u0161e pole obsahovat pouze jednu str\u00e1nku, vyberte jednu z voleb \"Jedna str\u00e1nka\" (pokud si nejste jisti, vyberte posledn\u00ed mo\u017enost)."
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "V\u00edce str\u00e1nek (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "Jedna str\u00e1nka (Page) nebo hodnota boolean false, pokud nen\u00ed vybr\u00e1na \u017e\u00e1dn\u00e1 str\u00e1nka"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "Jedna str\u00e1nka (Page) nebo pr\u00e1zdn\u00e1 str\u00e1nka (NullPage), pokud nen\u00ed vybr\u00e1na \u017e\u00e1dn\u00e1"
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Povolit nepublikovan\u00e9 str\u00e1nky?"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Naj\u00edt a vymazat neplatn\u00e9 odkazy na str\u00e1nky"
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Upozorn\u011bn\u00ed:  P\u0159ed spu\u0161t\u011bn\u00edm t\u00e9to funkce, z\u00e1lohujte datab\u00e1zi (pro v\u011bt\u0161\u00ed bezpe\u010dnost)."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Prob\u00edh\u00e1 hled\u00e1n\u00ed a \u010di\u0161t\u011bn\u00ed ..."
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Toto odstran\u00ed probl\u00e9m ve star\u0161\u00edch verz\u00edch ProcessWire, kter\u00e9 mohly zanechat neplatn\u00e9 reference str\u00e1nek pro odstran\u011bn\u00e9 str\u00e1nky. Pokud dost\u00e1v\u00e1te nep\u0159esn\u00e9 v\u00fdsledky z vyhled\u00e1vac\u00edch operac\u00ed str\u00e1nek (zejm\u00e9na u selektor\u016f pou\u017e\u00edvaj\u00edc\u00edch pageref.count), pak tuto funkci spus\u0165te."
+        },
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Po\u010det"
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Nepoda\u0159ilo se naj\u00edt str\u00e1nku"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "Nepoda\u0159ilo se naj\u00edt \u0161ablonu"
+        },
+        "b163d440906ff7e0a02262fb1406e123": {
+            "text": "Typ hodnoty pro pole Str\u00e1nka"
+        },
+        "be288f506d4d5100260d915b396a83be": {
+            "text": "P\u0159\u00edklady pou\u017eit\u00ed v API"
+        },
+        "c563103ae743ad1643e5f3e49a2c89d5": {
+            "text": "Stejn\u00e9 jako v\u00fd\u0161e uveden\u00e9, jen s jinou syntax\u00ed"
+        },
+        "0a7cd2620545065d49a8ca58f5fc0b28": {
+            "text": "V\u00edce informac\u00ed o metod\u011b %s."
+        },
+        "147ca86a29ed518210e0864f1e0d49ad": {
+            "text": "Kdy\u017e je za\u0161krtnuto, nepublikovan\u00e9 str\u00e1nky bude mo\u017en\u00e9 vybrat pro vstup a budou povoleny v *neform\u00e1tovan\u00e9* hodnot\u011b pole. Budou st\u00e1le vylou\u010deny z *form\u00e1tovan\u00e9* hodnoty pole v obou sm\u011brech."
+        }
+    }
+}

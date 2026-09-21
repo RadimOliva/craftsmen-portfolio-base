@@ -1,0 +1,17 @@
+<?php namespace ProcessWire;
+if (!defined('PROCESSWIRE')) die();
+$local = require dirname(__DIR__) . '/storage/local.php';
+foreach (['dbHost','dbPort','dbName','dbUser','dbPass'] as $key) $config->$key=$local[$key];
+$config->userAuthSalt=$local['salt'];
+$config->tableSalt=$local['tableSalt'];
+$config->dbCharset='utf8mb4';
+$config->dbEngine='InnoDB';
+$config->timezone='Europe/Prague';
+$config->httpHosts=$local['hosts'];
+$config->debug=false;
+$config->useFunctionsAPI=true;
+$config->useMarkupRegions=false;
+$config->templateCompile=false;
+$config->installed=1789900000;
+$config->craft=$local;
+require_once __DIR__ . '/templates/lib/Craft.php';

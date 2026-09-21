@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "O\u0159\u00edznut\u00ed"
+        },
+        "e24ee2487879116dcab772c0ac4fe341": {
+            "text": "Zam\u011b\u0159en\u00ed"
+        },
+        "a4374740662193b987e63eb5b727c994": {
+            "text": "Varianty"
+        },
+        "f4843c1c797abf1a256c8802b6cd9f51": {
+            "text": "Rozm\u011bry"
+        },
+        "b18c29b8470190a02813415a04a2191f": {
+            "text": "Velikost souboru"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "+"
+        },
+        "f6462f94fa453f425245109b06f64d22": {
+            "text": "p\u0159et\u00e1hn\u011bte nov\u00e9 obr\u00e1zky v\u00fd\u0161e"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "="
+        },
+        "f4795ac01103c68bc75e637665b7bd12": {
+            "text": "Toto pole obr\u00e1zk\u016f m\u016f\u017ee obsahovat neulo\u017een\u00e9 zm\u011bny, kter\u00e9 by mohly b\u00fdt po t\u00e9to akci ztraceny. P\u0159ed o\u0159\u00edznut\u00edm ulo\u017ete nebo dvakr\u00e1t klikn\u011bte na tla\u010d\u00edtko pokra\u010dovat."
+        },
+        "d6a369d29506d3151a76c33791fc80b6": {
+            "text": "vlo\u017ete nov\u00fd soubor obr\u00e1zku, kter\u00fd chcete nahradit"
+        },
+        "819258e827e9ef9ba926940f30b2697e": {
+            "text": "p\u0159et\u00e1hn\u011bte kruh do st\u0159edu zaost\u0159en\u00ed"
+        },
+        "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
+            "text": "V\u00fd\u0161e jsou star\u0161\u00ed n\u00e1hledy\/obr\u00e1zky s n\u00edzkou kvalitou \u2013 za\u0161krtnut\u00edm tohoto pol\u00ed\u010dka je vytvo\u0159\u00edte znovu."
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Neplatn\u00fd obr\u00e1zek"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Obr\u00e1zek %s nespl\u0148uje po\u017eadavky na minim\u00e1ln\u00ed velikost"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Obr\u00e1zek %s p\u0159ekra\u010duje maxim\u00e1ln\u00ed povolenou velikost"
+        },
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "Velikost obr\u00e1zku byla zm\u011bn\u011bna tak, aby odpov\u00eddala maxim\u00e1ln\u00edm povolen\u00fdm rozm\u011br\u016fm"
+        },
+        "96733a97d96b04ddd6e06cdf3147df1e": {
+            "text": "Nelze upravovat."
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Akce"
+        },
+        "9356bea0f207cd50faacd40798850038": {
+            "text": "Akce byla pou\u017eita p\u0159i ulo\u017een\u00ed."
+        },
+        "9ffbd422925a6839ee820ddbc59278c5": {
+            "text": "P\u0159eklopit"
+        },
+        "8d2de5368588552fbae54044ac5c7b3d": {
+            "text": "Oto\u010dit"
+        },
+        "ed75712b0eb1913c28a3872731ffd48d": {
+            "text": "Duplikovat"
+        },
+        "9d639c16d0e22f1f4f9b79593e260ce6": {
+            "text": "Odstranit varianty"
+        },
+        "baca1adb243ae63002bbb02b3ce5c28d": {
+            "text": "P\u0159egenerovat varianty"
+        },
+        "40c760714d188227815e2e1ed3369c29": {
+            "text": "Odstranit zam\u011b\u0159en\u00ed"
+        },
+        "c9b416167392c2b301810695b92efa12": {
+            "text": "vertik\u00e1ln\u00ed"
+        },
+        "2ef2dfb893d25c30e3e2bda1a10c8952": {
+            "text": "horizont\u00e1ln\u00ed"
+        },
+        "f6cb3e816496528d4187db53bc66567f": {
+            "text": "oboj\u00ed"
+        },
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Kop\u00edrovat"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Vlo\u017eit"
+        },
+        "e4ddc7e3d69547eea44ee08c02eb350d": {
+            "text": "Sn\u00ed\u017eit 50 %"
+        },
+        "60e7841801c8734e320b527cbfa8d022": {
+            "text": "="
+        },
+        "b84a9a38377dc1ab6c6d5005cb461f0d": {
+            "text": "S\u00e9pie"
+        },
+        "36400352f439e8894099e79dc33fada1": {
+            "text": "Znovu vytvo\u0159eny v\u0161echny star\u0161\u00ed miniatury"
+        },
+        "0cb9400e4e73f627d6587cf549c60907": {
+            "text": "Duplicitn\u00ed soubor %1$s => %2$s"
+        },
+        "80a599081d30053c4cf6bc91230a9e6c": {
+            "text": "U souboru %2$s byla provedena akce \u201e%1$s\u201c."
+        },
+        "a45c16f718396868c97a72efcc571842": {
+            "text": "Ne\u00fasp\u011b\u0161n\u00e1 akce \u201e%1$s\u201c u souboru %2$s"
+        },
+        "ac8883f9998c8b328a96855575eebcc5": {
+            "text": "Nebyl nalezen \u017e\u00e1dn\u00fd obslu\u017en\u00fd program pro akci \u201e%1$s\u201c v souboru %2$s"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Obr\u00e1zky"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Nahr\u00e1n\u00ed jednoho nebo v\u00edce obr\u00e1zk\u016f (se\u0159adit)"
+        }
+    }
+}

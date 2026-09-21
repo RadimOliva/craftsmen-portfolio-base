@@ -1,0 +1,33 @@
+{
+    "file": "wire\/core\/admin.php",
+    "textdomain": "wire--core--admin-php",
+    "translations": {
+        "d959bbe25cc020e2db5276cb42927c7c": {
+            "text": "\u010d\u00edst v\u00edce"
+        },
+        "657e7a4fc0a8b4f44a06c216edf02d64": {
+            "text": "Nerozpoznan\u00fd HTTP host:"
+        },
+        "b6823820033b6cf18c3aa27d252861e0": {
+            "text": "Aktualizujte pros\u00edm va\u0161e nastaven\u00ed $config->httpHosts setting v \/site\/config.php"
+        },
+        "af1595f0c5186db6cc35577429366e6d": {
+            "text": "Tato str\u00e1nka nem\u00e1 p\u0159i\u0159azen\u00fd \u017e\u00e1dn\u00fd proces."
+        },
+        "905d286d5f512b563448eedeb744206d": {
+            "text": "Proces nevr\u00e1til \u017e\u00e1dn\u00fd obsah."
+        },
+        "c0e293a452a1d7be53a199d8b0a387bd": {
+            "text": "="
+        },
+        "3d6623b8d5249788a0d797d4bbc5e5a1": {
+            "text": "Je vy\u017eadov\u00e1na akce"
+        },
+        "cfdf33cbd93768327b807066fb473750": {
+            "text": "Zapnout dvou faktorov\u00e9 ov\u011b\u0159en\u00ed"
+        },
+        "7d1e877f40bcb7e917038fddfbc95043": {
+            "text": "Dos\u00e1hli jste maxima PHP \"max_input_vars\" z %d - pros\u00edm zvy\u0161te tuto hodnotu."
+        }
+    }
+}

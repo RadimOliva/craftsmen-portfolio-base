@@ -1,0 +1,123 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearch.module",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearch-module",
+    "translations": {
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Nebylo zad\u00e1no vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "52b9d143876d2754dd01be52587b1de8": {
+            "text": "Typ vyhled\u00e1v\u00e1n\u00ed:"
+        },
+        "75ecaaafd1f677d07360709be6528768": {
+            "text": "Hledat:"
+        },
+        "9e230fa5487a0172264f31c0a1b08b61": {
+            "text": "Omezit na \u0161ablonu:"
+        },
+        "6f9d01a14011f05fffe48559583fc609": {
+            "text": "\u0158adit podle:"
+        },
+        "fa4e2f0cea3ceef82c840df64fecb9e4": {
+            "text": "Opa\u010dn\u00e9 \u0159azen\u00ed?"
+        },
+        "b4805a9af05d82889758dda70003cfc6": {
+            "text": "Mo\u017enosti vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "29e9d8e295b1d5b3002d2d3d5baa4c37": {
+            "text": "Kl\u00e1vesov\u00e9 zkratky"
+        },
+        "4ecb0055aa1e66535afeaf6093585618": {
+            "text": "Vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "d27c07f4c0dd15e39cedd91c19cb279f": {
+            "text": "Hledat"
+        },
+        "4b315bff8c7b70281de8ffffbd150708": {
+            "text": "Hledat"
+        },
+        "1da914fe3f639d8b3d977a006d2b0c69": {
+            "text": "Nalezena %1$d str\u00e1nka s pou\u017eit\u00edm selektoru: %2$s"
+        },
+        "dc87414810d43e27f63b89feabadc943": {
+            "text": "Nalezeno %1$d str\u00e1nek s pou\u017eit\u00edm selektoru: %2$s"
+        },
+        "f802f85dd1eb6a1b3fb0591c682807e9": {
+            "text": "Hledat v poli(pol\u00edch):"
+        },
+        "1e9c565e43a1f652a2718003bbad887e": {
+            "text": "Zobrazit pole:"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Pokro\u010dil\u00e9"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "upravit"
+        },
+        "8aa55d906b86496efeb66b0eae7d75ce": {
+            "text": "Str\u00e1nky"
+        },
+        "2d29cf36f3ebbd5bab570d70070e5102": {
+            "text": "V\u00fdchoz\u00ed n\u00e1zvy pol\u00ed pro zobrazen\u00ed ve v\u00fdsledc\u00edch vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "6cfd6f09104bdac467bb40624aae4e9c": {
+            "text": "P\u0159i zad\u00e1v\u00e1n\u00ed v\u00edce pol\u00ed se ka\u017ed\u00e9 odd\u011bluje mezerou."
+        },
+        "03164877c3d4b788308e3fbfe3199751": {
+            "text": "Vyhled\u00e1v\u00e1n\u00ed v administraci"
+        },
+        "d1032e06eff58a781d56ae06b0ebeb85": {
+            "text": "Po\u0159ad\u00ed vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "e8159c4a91a92ac26a6c03ef7aaf6dac": {
+            "text": "Jedn\u00e1 se o typy hled\u00e1v\u00e1n\u00ed, kter\u00e9 budou provedeny b\u011bhem vyhled\u00e1v\u00e1n\u00ed v administraci."
+        },
+        "e6325f7d83769dd875f667c2dbcd5fd7": {
+            "text": "P\u0159et\u00e1hn\u011bte je na po\u0159ad\u00ed, ve kter\u00e9m chcete zobrazit v\u00fdsledky vyhled\u00e1v\u00e1n\u00ed."
+        },
+        "94d8d93a863e2724dc409c7b5771bf76": {
+            "text": "(vylou\u010deno)"
+        },
+        "8cf4111a5e458360994845128c2b07b3": {
+            "text": "Vylou\u010dit typy vyhled\u00e1v\u00e1n\u00ed"
+        },
+        "fbb4e524dc820fa07f82c23211611ad9": {
+            "text": "Vyberte v\u0161echny typy hled\u00e1v\u00e1n\u00ed, kter\u00e9 chcete vylou\u010dit z vyhled\u00e1v\u00e1n\u00ed. Mohou to b\u00fdt typy, kter\u00e9 \u010dasto nepot\u0159ebujete hledat."
+        },
+        "cee52fb451f657b046988a3535ad9fad": {
+            "text": "\u010c\u00edm v\u00edce typ\u016f je vylou\u010deno, t\u00edm rychlej\u0161\u00ed bude vyhled\u00e1v\u00e1n\u00ed."
+        },
+        "1b803e4573be96837e8a286f9ba111c4": {
+            "text": "Kter\u00e9koliv vybran\u00e9 typy lze st\u00e1le vyhled\u00e1vat, pokud je to po\u017eadov\u00e1no p\u0159i konkr\u00e9tn\u00edm hled\u00e1n\u00ed."
+        },
+        "5b2201bc8bf61333c472ab98b9f3b2c3": {
+            "text": "Pokud jste nap\u0159\u00edklad vylou\u010dili typ \"trash\", m\u016f\u017eete st\u00e1le vyhled\u00e1vat pomoc\u00ed \"trash=\", nap\u0159\u00edklad \"trash=Ahoj\"."
+        },
+        "e1eee8c1f21fe51aa15f3006cd6419f4": {
+            "text": "Pole str\u00e1nky k prohled\u00e1n\u00ed"
+        },
+        "14521e8e790db172e8c476f9d77291c0": {
+            "text": "Plat\u00ed pouze pro v\u00fdsledky vyhled\u00e1v\u00e1n\u00ed z \"pages\" a \"trash\"."
+        },
+        "4f745aea666e6efcb5ff18f1d9275693": {
+            "text": "Doporu\u010dujeme toto omezit maxim\u00e1ln\u011b na 1 nebo 2 pole, abyste zajistili rychl\u00e9 vyhled\u00e1v\u00e1n\u00ed. B\u011b\u017en\u011b byste hledali pouze v poli \"title\"."
+        },
+        "719994663f2fff9ce4cd0935acc6c6a5": {
+            "text": "Pole str\u00e1nky pro hled\u00e1n\u00ed, pokud u\u017eivatel stiskne \"enter\" ve vyhled\u00e1vac\u00edm poli"
+        },
+        "50570447523d04b47c7c79f8c135a3ae": {
+            "text": "Obvykle to m\u016f\u017ee b\u00fdt stejn\u00e9 jako v\u00fd\u0161e, ale m\u016f\u017eete tak\u00e9 p\u0159idat dal\u0161\u00ed pole."
+        },
+        "72dc6e522da22345e91fd3dde26d792e": {
+            "text": "Nap\u0159\u00edklad nemus\u00edte vyhled\u00e1vat pouze v poli \"title\", ale tak\u00e9 v poli \"body\"."
+        },
+        "f9702fc01ddd6b314fe6d74ac54995b6": {
+            "text": "V\u00fdchoz\u00ed oper\u00e1tor vyhled\u00e1v\u00e1n\u00ed pro vyhled\u00e1v\u00e1n\u00ed jedin\u00e9 a \u010d\u00e1ste\u010dn\u00e9 slovo"
+        },
+        "bbeff731bf48359f60959f600e6240c2": {
+            "text": "V\u00fdchoz\u00ed vyhled\u00e1vac\u00ed oper\u00e1tor pro vyhled\u00e1v\u00e1n\u00ed v\u00edce slov (fr\u00e1ze)"
+        },
+        "608da9c856f25abd4d2a774f9c5aa9a0": {
+            "text": "(nastaven\u00ed pro typ str\u00e1nek)"
+        }
+    }
+}

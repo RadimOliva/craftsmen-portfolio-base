@@ -1,0 +1,4 @@
+{
+  "php": {"version":"8.4.25","url":"https://www.php.net/~windows/releases/php-8.4.25-nts-Win32-vs17-x64.zip","sha256":"43a8f67ed2e5223fafb21293c85976361808855405278cef2cf3037c3ae2529c"},
+  "mariadb": {"version":"11.4.10","url":"https://archive.mariadb.org/mariadb-11.4.10/winx64-packages/mariadb-11.4.10-winx64.zip","sha256":"fb7c76f0804321ee373daa49145f2056d2d88f321b614130adeb05a1644ea003"}
+}

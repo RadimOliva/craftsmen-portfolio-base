@@ -1,0 +1,84 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module",
+    "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "P\u0159idat"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "\u0160ablona"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Ulo\u017eit"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "P\u0159idat novou str\u00e1nku"
+        },
+        "abc32b2bc5cd1b61b5d3738f09405c0d": {
+            "text": "Chyb\u00ed povinn\u00e9 pole: name"
+        },
+        "9c99ecab6aa8967c077e01a0b3f51668": {
+            "text": "Vytvo\u0159ena str\u00e1nka %1$s pou\u017e\u00edvaj\u00edc\u00ed \u0161ablonu: %2$s"
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "P\u0159idat str\u00e1nku"
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "Zak\u00e1zat automatick\u00e9 publikov\u00e1n\u00ed"
+        },
+        "13148993e6c4399880e879c88a664347": {
+            "text": "Ve v\u00fdchoz\u00edm nastaven\u00ed jsou str\u00e1nky obsahuj\u00edc\u00ed pouze glob\u00e1ln\u00ed pole (v\u011bt\u0161inou \"title\") automaticky publikov\u00e1ny p\u0159i vytv\u00e1\u0159en\u00ed, co\u017e obch\u00e1z\u00ed o obvykl\u00fd nepublikovan\u00fd stav. Vet\u0161inou je toto chov\u00e1n\u00ed \u017e\u00e1douc\u00ed spo\u0159i\u010d \u010dasu, ale m\u016f\u017eete ho zru\u0161it za\u0161krtnut\u00edm pol\u00ed\u010dka n\u00ed\u017ee."
+        },
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "Kam chcete p\u0159idat %s?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "Pros\u00edm vyberte rodi\u010dovskou %s str\u00e1nku n\u00ed\u017ee:"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Rodi\u010d"
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Ulo\u017eit + Zve\u0159ejnit"
+        },
+        "b0324fdebb63032317bba7c66bff89fc": {
+            "text": "V sou\u010dasn\u00e9 dob\u011b neexistuj\u00ed \u017e\u00e1dn\u00e9 \u0161ablony s definovan\u00fdmi vztahy rodi\u010d\/potomek, kter\u00e9 by zde m\u011bly zobrazovat z\u00e1stupce \"P\u0159idat\". Chcete-li toto chov\u00e1n\u00ed konfigurovat, upravte libovolnou \u0161ablonu (Nastaven\u00ed> \u0160ablony) a klikn\u011bte na kartu \"Rodina\"."
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "="
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "Zadan\u00fd n\u00e1zev je ji\u017e pou\u017e\u00edv\u00e1n. Pokud jej nezm\u011bn\u00edte, bude po ulo\u017een\u00ed automaticky vytvo\u0159eno unik\u00e1tn\u00ed jm\u00e9no."
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "Pro p\u0159id\u00e1n\u00ed nov\u00fdch str\u00e1nek nejsou povoleny \u017e\u00e1dn\u00e9 \u0161ablony."
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "\u0160ablona \"%s\" zde nen\u00ed povolena."
+        },
+        "591d3e7786bdfa26890da22a5565f1f5": {
+            "text": "Ulo\u017eit + Zve\u0159ejnit + P\u0159idat dal\u0161\u00ed"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "Nepou\u017e\u00edvan\u00e1 do\u010dasn\u00e1 (temp) str\u00e1nka"
+        },
+        "a713b3cf3828f00d541e6ae14b294a8f": {
+            "text": "Str\u00e1nky, kter\u00e9 jste vybrali v\u00fd\u0161e, p\u0159edstavuj\u00ed z\u00e1lo\u017eky na nad\u0159azen\u00e9 str\u00e1nky, kam chcete p\u0159idat potomky. V\u0161imn\u011bte si, \u017ee pokud u\u017eivatel nem\u00e1 opr\u00e1vn\u011bn\u00ed p\u0159idat str\u00e1nku na danou rodi\u010dovskou str\u00e1nku (a\u0165 u\u017e kv\u016fli \u0159\u00edzen\u00ed p\u0159\u00edstupu nebo nastaven\u00ed rodiny \u0161ablon), z\u00e1lo\u017eka se nezobraz\u00ed."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Po\u0159ad\u00ed \u0159azen\u00ed zkratek \u0161ablon"
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Chcete-li zm\u011bnit po\u0159ad\u00ed zkratek pro p\u0159id\u00e1n\u00ed nov\u00fdch str\u00e1nek \"P\u0159idat\", p\u0159et\u00e1hn\u011bte polo\u017eky do po\u0159ad\u00ed, ve kter\u00e9 je chcete m\u00edt."
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Chcete-li p\u0159idat nebo odebrat \u0161ablony z t\u011bchto zkratek, p\u0159ejd\u011bte na kartu Rodina p\u0159i editaci \u0161ablony."
+        },
+        "9d9c4e8d05601024166b9a3b0cb46ad6": {
+            "text": "V\u00fdb\u011br \u0161ablony je vy\u017eadov\u00e1n"
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Upozorn\u011bn\u00ed, n\u00e1zev, kter\u00fd jste vybrali \"%1$s\", se ji\u017e pou\u017e\u00edval a byl zm\u011bn\u011bn na \"%2$s\"."
+        }
+    }
+}

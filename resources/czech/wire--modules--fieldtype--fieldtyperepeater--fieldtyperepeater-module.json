@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeRepeater.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtyperepeater-module",
+    "translations": {
+        "d3b3350cb648f345b0a21a048df0cf45": {
+            "text": "Opakovac\u00ed sekce (Repeater)"
+        },
+        "64137776d10ddf89ff3087915287b872": {
+            "text": "Spravuje kolekce pol\u00ed, kter\u00e9 lze libovoln\u00fd po\u010det kr\u00e1t opakovat."
+        }
+    }
+}

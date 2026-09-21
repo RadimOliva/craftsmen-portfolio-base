@@ -1,0 +1,26 @@
+(() => {
+  const header=document.querySelector('#header');
+  const update=()=>header?.classList.toggle('compact',window.scrollY>45);
+  update();addEventListener('scroll',update,{passive:true});
+  const toggle=document.querySelector('.menu-toggle'),nav=document.querySelector('#mobile-nav');
+  const closeMenu=()=>{if(nav)nav.hidden=true;toggle?.setAttribute('aria-expanded','false');toggle?.setAttribute('aria-label','Otevřít menu');};
+  toggle?.addEventListener('click',()=>{const open=toggle.getAttribute('aria-expanded')!=='true';toggle.setAttribute('aria-expanded',String(open));toggle.setAttribute('aria-label',open?'Zavřít menu':'Otevřít menu');nav.hidden=!open;});
+  nav?.querySelectorAll('a').forEach(a=>a.addEventListener('click',closeMenu));
+  addEventListener('keydown',e=>{if(e.key==='Escape'&&nav&&!nav.hidden){closeMenu();toggle.focus();}});
+  const dialog=document.querySelector('#gallery'),data=JSON.parse(document.querySelector('#gallery-data')?.textContent||'{}');
+  let current=null,index=0,opener=null;
+  const paint=()=>{const photo=current.photos[index];const image=dialog.querySelector('#gallery-image');image.src=photo.url;image.alt=photo.alt;dialog.querySelector('#gallery-title').textContent=current.title;dialog.querySelector('#gallery-location').textContent=current.location;dialog.querySelector('#gallery-description').innerHTML=current.description;dialog.querySelector('#gallery-counter').textContent=`${index+1} / ${current.photos.length}`;dialog.querySelectorAll('.gallery-prev,.gallery-next').forEach(b=>b.hidden=current.photos.length<2);};
+  const move=delta=>{index=(index+delta+current.photos.length)%current.photos.length;paint();};
+  document.querySelectorAll('.gallery-open').forEach(a=>a.addEventListener('click',e=>{if(!dialog?.showModal)return;e.preventDefault();current=data[a.dataset.project];index=0;opener=a;paint();dialog.showModal();document.body.classList.add('modal-open');dialog.querySelector('.gallery-close').focus();}));
+  dialog?.querySelector('.gallery-close').addEventListener('click',()=>dialog.close());
+  dialog?.querySelector('.gallery-prev').addEventListener('click',()=>move(-1));dialog?.querySelector('.gallery-next').addEventListener('click',()=>move(1));
+  dialog?.addEventListener('close',()=>{document.body.classList.remove('modal-open');opener?.focus();});
+  dialog?.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}});
+  dialog?.addEventListener('keydown',e=>{if(e.key==='ArrowLeft'){e.preventDefault();move(-1);}if(e.key==='ArrowRight'){e.preventDefault();move(1);}});
+  let touchX=null;dialog?.addEventListener('touchstart',e=>{touchX=e.changedTouches[0].clientX;},{passive:true});dialog?.addEventListener('touchend',e=>{if(touchX!==null){const dx=e.changedTouches[0].clientX-touchX;if(Math.abs(dx)>55)move(dx<0?1:-1);touchX=null;}},{passive:true});
+  const form=document.querySelector('#enquiry-form');
+  form?.addEventListener('submit',e=>{const files=form.querySelector('[type=file]');if(files){const list=[...files.files];if(list.length>5||list.some(f=>f.size>10*1024*1024)||list.reduce((sum,f)=>sum+f.size,0)>25*1024*1024){e.preventDefault();files.setCustomValidity('Nejvýše 5 souborů, 10 MB na soubor a 25 MB celkem.');files.reportValidity();return;}}const button=form.querySelector('[type=submit]');button.disabled=true;button.textContent='Odesíláme…';});
+  form?.querySelector('[type=file]')?.addEventListener('change',e=>e.target.setCustomValidity(''));
+  addEventListener('pageshow',()=>{const button=form?.querySelector('[type=submit]');if(button?.disabled){button.disabled=false;button.textContent='Odeslat poptávku ↗';}});
+  document.querySelector('.form-errors,.form-success')?.focus();
+})();

@@ -1,0 +1,10 @@
+/.runtime/
+/storage/*
+!/storage/.htaccess
+!/storage/.gitkeep
+/vendor/
+/site/assets/
+/site/install/
+/node_modules/
+/test-results/
+/playwright-report/
